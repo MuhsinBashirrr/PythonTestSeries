@@ -5,6 +5,6 @@ Python Test Series is a repository containing Python practice questions and solu
 ## Test List
 
 - [ Data Structures Assessment Test ](https://github.com/MuhsinBashirrr/PythonTestSeries/blob/main/00.ipynb)
-- [ Statements Assessment Test ]
+- [ Statements Assessment Test ](https://github.com/MuhsinBashirrr/PythonTestSeries/blob/main/01.ipynb)
 
 
